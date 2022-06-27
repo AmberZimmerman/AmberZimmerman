@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmberZimmerman a full stack web developer with an emphasis on the front end
 - Education includes a certificate in Full Stack Web Development from the University of Denver and a bachelors degree in Visual Arts and Emerging Media Management from the University of Central Florida. 
 
-Positioned to provide a unique perspective on how end users interact with websites and software platforms by leveraging background in art management and years of customer interactions in a retail environment. Strong ability to research and identify trends with expertise in product buying, merchandising, and consumer psychology. Knowledgable on topics involving the integration, training, and use of POS systems.
+- Positioned to provide a unique perspective on how end users interact with websites and software platforms by leveraging background in art management and years of customer interactions in a retail environment. Knowledgable on topics involving the integration, training, and use of POS systems. Strong ability to research and identify trends with expertise in product buying, merchandising, and consumer psychology. 
 
 - 💞️ I’m always looking to collaborate on coding projects, shoot me an email.
 - 📫 How to reach me - my e-mail developwithamber@gmail.com
